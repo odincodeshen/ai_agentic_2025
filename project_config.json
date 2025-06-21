@@ -1,0 +1,56 @@
+{
+  "project_name": "ai_agentic_2025",
+  "version": "1.0.0",
+  "description": "AI代理项目",
+  
+  "communication": {
+    "language": "zh-CN",
+    "tone": "professional",
+    "response_format": "structured"
+  },
+  
+  "coding_standards": {
+    "style_guide": "PEP 8",
+    "naming_convention": "snake_case",
+    "comment_style": "docstring",
+    "indentation": 4,
+    "comment_language": "en-US",
+    "variable_naming": "en-US",
+    "code_language": "en-US"
+  },
+  
+  "file_organization": {
+    "use_subdirectories": true,
+    "naming_pattern": "descriptive",
+    "separate_configs": true,
+    "file_naming": "en-US"
+  },
+  
+  "preferences": {
+    "create_readme": true,
+    "add_requirements": true,
+    "include_examples": true,
+    "documentation_format": "markdown",
+    "readme_language": "en-US",
+    "code_documentation_language": "en-US",
+    "program_output_language": "en-US"
+  },
+  
+  "language_policy": {
+    "conversation": "zh-CN",
+    "code_comments": "en-US",
+    "variable_names": "en-US",
+    "function_names": "en-US",
+    "readme_docs": "en-US",
+    "technical_docs": "en-US",
+    "program_output": "en-US"
+  },
+  
+  "custom_rules": [
+    "中文对话，英文代码和文档",
+    "所有变量和函数名使用英文",
+    "README文档使用英文",
+    "代码文档使用英文",
+    "程序输出使用英文"
+  ]
+} 
