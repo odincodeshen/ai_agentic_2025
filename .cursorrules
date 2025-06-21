@@ -1,37 +1,94 @@
-# 项目交互规则
+# Project Interaction Rules
 
-## 基本沟通原则
-- 始终使用中文回复
-- 保持专业、友好的语调
-- 提供清晰、结构化的回答
+## Basic Communication Principles
+- Always respond in English
+- Maintain professional and friendly tone
+- Provide clear, structured responses
+- Use markdown formatting for better readability
+- Include code examples when explaining technical concepts
 
-## 代码开发原则
-- 遵循最佳实践和设计模式
-- 编写清晰、可维护的代码
-- **所有代码、注释、文档字符串、变量命名必须使用英文**
-- 考虑代码的可扩展性和复用性
-- 每个函数和类必须有英文docstring
+## Code Development Principles
+- Follow best practices and design patterns
+- Write clear, maintainable code
+- **All code, comments, docstrings, and variable names must be in English**
+- Consider code extensibility and reusability
+- Every function and class must have English docstrings
+- Use meaningful variable and function names
+- Implement proper error handling
+- Write unit tests for critical functionality
+- Follow PEP 8 style guidelines for Python code
 
-## 文件组织原则
-- 使用清晰的目录结构
-- 遵循一致的命名规范
-- 合理组织代码模块
-- 使用描述性的英文文件名
+## File Organization Principles
+- Use clear directory structure
+- Follow consistent naming conventions
+- Organize code modules logically
+- Use descriptive English filenames
+- Separate concerns into different modules
+- Use lowercase with underscores for Python files
+- Create README files for each project directory
 
-## 语言使用原则
-- **对话交流**：使用中文
-- **代码注释**：使用英文
-- **变量命名**：使用英文
-- **函数命名**：使用英文
-- **README文档**：使用英文
-- **技术文档**：使用英文
-- **程序输出**：使用英文
+## Language Usage Principles
+- **Conversation**: Use English
+- **Code Comments**: Use English
+- **Variable Names**: Use English
+- **Function Names**: Use English
+- **README Documentation**: Use English
+- **Technical Documentation**: Use English
+- **Program Output**: Use English
+- **Error Messages**: Use English
 
-## 项目特定规则
-[请在这里添加您的具体项目规则]
+## Project-Specific Rules
+- Create comprehensive documentation for each project
+- Include usage examples in README files
+- Implement educational features for learning algorithms
+- Provide step-by-step explanations for complex processes
+- Include performance characteristics and complexity analysis
+- Create test cases covering edge cases and normal usage
+- Use type hints in Python code for better code clarity
 
-## 技术偏好
-[请在这里添加您的技术栈偏好]
+## Technical Preferences
+- **Python**: Primary language for algorithm implementations
+- **JavaScript**: For web-based interactive demonstrations
+- **HTML/CSS**: For web interface development
+- **Git**: For version control
+- **Markdown**: For documentation
+- **Jupyter Notebooks**: For educational content when appropriate
+- **Testing**: pytest for Python testing
+- **Code Quality**: Use linters and formatters (black, flake8 for Python)
 
-## 工作流程
-[请在这里添加您期望的工作流程] 
+## Workflow
+1. **Project Setup**: Create clear directory structure with README
+2. **Implementation**: Write clean, well-documented code
+3. **Testing**: Include comprehensive test cases
+4. **Documentation**: Create detailed README with usage examples
+5. **Demonstration**: Provide working examples and educational content
+6. **Review**: Ensure code follows all established principles
+7. **Deployment**: Make sure project runs without issues
+
+## Code Quality Standards
+- Write self-documenting code
+- Use consistent indentation and formatting
+- Implement proper exception handling
+- Avoid code duplication
+- Use appropriate data structures
+- Optimize for readability over cleverness
+- Include inline comments for complex logic
+- Use meaningful commit messages
+
+## Documentation Standards
+- Write clear, concise documentation
+- Include installation and setup instructions
+- Provide usage examples
+- Document API interfaces
+- Explain algorithm complexity and performance
+- Include troubleshooting sections
+- Use consistent formatting and structure
+
+## Project-Specific Rules
+[Please add your specific project rules here]
+
+## Technical Preferences
+[Please add your technology stack preferences here]
+
+## Workflow
+[Please add your expected workflow here] 
